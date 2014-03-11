@@ -14,4 +14,4 @@ Clone the repository:
  
 Make a copy of it into your snippets directory
 
-   `ln -s hy-yasnippet/hymode ~/.emacs.d/snippets/.`
+   `ln -s hy-yasnippet/hy-mode ~/.emacs.d/snippets/.`
